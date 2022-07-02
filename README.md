@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theeyefloaters&label=Profile%20views&color=0e75b6&style=flat" alt="theeyefloaters" /> </p>
 
-(img align="right" alt="Coding" width="400" src="https://twilio-cms-prod.s3.amazonaws.com/original_images/gif02.gif")
+img align="right" alt="Coding" width="400" src="https://twilio-cms-prod.s3.amazonaws.com/original_images/gif02.gif"
 
 - 🔭 I’m currently working on **Java and Python**
 
